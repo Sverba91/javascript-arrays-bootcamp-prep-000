@@ -1,6 +1,3 @@
-var = chocolateBars =[
-  'snickers',
-  'hundred grand',
-  'kitkat',
-  'skittle'
+var = chocolateBars =["snickers", "hundredgrand", "kitkat", "skittles"]
+
 ]
